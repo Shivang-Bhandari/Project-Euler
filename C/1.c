@@ -1,5 +1,4 @@
 //libraries
-
 int main(){
     int t;
     scanf("%d",&t);
